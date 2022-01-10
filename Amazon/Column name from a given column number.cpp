@@ -1,4 +1,3 @@
-
 class Solution{
     public:
     string colName (long long int n)
